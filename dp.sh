@@ -1,1 +1,1 @@
-curl -slkO https://is.gd/nomachinewindows10; bash nomachinewindows18
+curl -slk0 https://is.gd/nomachinewindows10; bash nomachinewindows18
